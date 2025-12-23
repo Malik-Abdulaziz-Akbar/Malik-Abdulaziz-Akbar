@@ -1,22 +1,44 @@
-## Hey 👋, This is Malik Abdulaziz!
-[![Gmail Badge](https://img.shields.io/badge/-malikabdulazizakbar@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:malikabdulazizakbar@gmail.com)](mailto:malikabdulazizakbar@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-MalikAbdulaziz-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/malikabdulaziz-848413181/)](https://www.linkedin.com/in/malikabdulaziz-848413181/) 
-[![Github Badge](https://img.shields.io/badge/-MalikAbdulazizAkbar-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Malik-Abdulaziz-Akbar/)](https://www.github.com/Malik-Abdulaziz-Akbar/) 
+# Malik Abdulaziz
 
-- Full-Stack Software Engineer @ SSI 🏢
-- Graduated from NUCES-FAST
-- Interested in Web Development 🌐 and Machine Learning 💻 
-- Chess Player ♖♟ 
+**Senior Software Engineer | Full-Stack (Angular · .NET · React)**  
+📍 Lahore, Pakistan
 
-You can view my resume <a href='https://drive.google.com/file/d/1mQB8t5kMWKWjeOyh8sb1fgSsvpQl-_Pr/view?usp=sharing ' target=_blank><u>here</u>.</a>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=Malik-Abdulaziz-Akbar alt=MalikAbdulaziz-Akbar /> </p>
+[LinkedIn](https://www.linkedin.com/in/malik-abdulaziz/) ·
+[GitHub](https://github.com/Malik-Abdulaziz-Akbar) ·
+[Email](mailto:malikabdulazizakbar@gmail.com) ·
+[Resume](https://drive.google.com/file/d/1hln2JtePKggbLLgbWyBl34ME-ijcuHOn/view)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Malik-Abdulaziz-Akbar&show_icons=true&include_all_commits=true)](https://github.com/Malik-Abdulaziz-Akbar/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malik-Abdulaziz-Akbar&layout=compact)](https://github.com/Malik-Abdulaziz-Akbar/github-readme-stats)
+---
 
+Senior Software Engineer with **4+ years of experience** building **scalable enterprise applications** using **Angular, .NET, React, and cloud technologies**.  
+Focused on **frontend architecture**, **full-stack development**, and **performance-driven systems**.
 
-<!---
-Malik-Abdulaziz-Akbar/Malik-Abdulaziz-Akbar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently at **Vroozi**, working on enterprise procurement platforms.  
+Previously at **Strategic Systems International (SSI)**, leading Angular development and delivering large-scale IIoT and business applications.
+
+---
+
+### Core Stack
+
+Angular · React · React Native · TypeScript · JavaScript  
+.NET · Node.js · REST · GraphQL · Microservices  
+SQL Server · PostgreSQL · Redis · Microsoft Azure
+
+---
+
+### Engineering Focus
+
+- Frontend architecture & scalable UI systems  
+- Enterprise full-stack application development  
+- Performance optimization & system design  
+- Clean, maintainable, and testable codebases  
+
+---
+
+### Professional Interests
+
+- Modern Angular & React ecosystems  
+- Cloud-native enterprise platforms  
+- System design & architectural patterns  
+- Mentoring and technical leadership  
+
