@@ -10,7 +10,7 @@
 
 ---
 
-Senior Software Engineer with **4+ years of experience** building **scalable enterprise applications** using **Angular, .NET, React, and cloud technologies**.  
+Senior Software Engineer with **5+ years of experience** building **scalable enterprise applications** using **Angular, React Native, .NET, React, and cloud technologies**.  
 Focused on **frontend architecture**, **full-stack development**, and **performance-driven systems**.
 
 Currently at **Vroozi**, working on enterprise procurement platforms.  
@@ -37,7 +37,7 @@ SQL Server · PostgreSQL · Redis · Microsoft Azure
 
 ### Professional Interests
 
-- Modern Angular & React ecosystems  
+- Modern React Native, Angular & React ecosystems  
 - Cloud-native enterprise platforms  
 - System design & architectural patterns  
 - Mentoring and technical leadership  
